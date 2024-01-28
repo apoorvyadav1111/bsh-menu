@@ -1,0 +1,103 @@
+{
+    "South Indian": [
+        {
+            "dish":"Masaala Dosa",
+            "price": 100,
+            "spice": "medium"
+        },
+        {
+            "dish":"Idli",
+            "price": 50,
+            "spice": "mild"
+        }
+    ],
+    "Main Course": [
+        {
+            "dish":"Paneer Butter Masala",
+            "price": 200,
+            "spice": "medium"
+        },
+        {
+            "dish":"Dal Makhani",
+            "price": 150,
+            "spice": "mild"
+        }
+    ],
+    "Chinese":
+    [
+        {
+            "dish":"Manchurian",
+            "price": 150,
+            "spice": "medium"
+        },
+        {
+            "dish":"Fried Rice",
+            "price": 100,
+            "spice": "mild"
+        }
+    ],
+    "Desserts":
+    [
+        {
+            "dish":"Gulab Jamun",
+            "price": 50,
+            "spice": "mild"
+        },
+        {
+            "dish":"Ice Cream",
+            "price": 100,
+            "spice": "mild"
+        }
+    ],
+    "Beverages":
+    [
+        {
+            "dish":"Coke",
+            "price": 50,
+            "spice": "mild"
+        },
+        {
+            "dish":"Pepsi",
+            "price": 50,
+            "spice": "mild"
+        }
+    ],
+    "Breads":
+    [
+        {
+            "dish":"Naan",
+            "price": 50,
+            "spice": "mild"
+        },
+        {
+            "dish":"Roti",
+            "price": 50,
+            "spice": "mild"
+        }
+    ],
+    "Snacks":
+    [
+        {
+            "dish":"Samosa",
+            "price": 50,
+            "spice": "mild"
+        },
+        {
+            "dish":"Pakoda",
+            "price": 50,
+            "spice": "mild"
+        }
+    ],
+    "Rice":[
+        {
+            "dish":"Biryani",
+            "price": 200,
+            "spice": "medium"
+        },
+        {
+            "dish":"Pulao",
+            "price": 150,
+            "spice": "mild"
+        }
+    ]
+}
