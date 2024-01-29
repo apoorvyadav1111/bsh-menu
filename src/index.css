@@ -19,10 +19,20 @@ h1{
   }
 
 }
-
+#root{
+  height: 100vh;
+  width: 100vw;
+}
 .header {
-  display: flex;
+  display: grid;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.logo{
+  filter: invert(89%) sepia(65%) saturate(302%) hue-rotate(314deg) brightness(99%) contrast(94%);
+  @media (max-width: 600px){
+    height: 200px;
+  }
 }

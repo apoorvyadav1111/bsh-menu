@@ -44,6 +44,7 @@ const Home = () => {
                             key={index}
                             initial={{ opacity: 0, x: function() { return index % 2 === 0 ? -100 : 100 }()}}
                             whileInView={{ opacity: 1, x: 0}}
+                            exit={{ opacity: 0, x: function() { return index % 2 === 0 ? -100 : 100 }()}}
                         >
                             <Link to={`/menu/${category}`}>
                                 <h3>{category}</h3>
