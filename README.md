@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## Restaurant Digital Menu using React and Github Pages
+
+This website is made for a local business to digitize their menu. The customers can check the menu by scanning a QR code or the url. This enables them to have the menu updated easier than updating it in hard copies. 
 
 Live Website: https://apoorvyadav1111.github.io/bsh-menu/
 
