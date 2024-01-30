@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+## Restaurant Digital Menu using React and Github Pages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<a href="https://www.freepik.com/free-vector/brown-mandala-pattern-background_1183921.htm#fromView=search&term=brown+traditional&track=ais&regularType=vector&page=1&position=52&uuid=5a1bb86f-b9e2-491a-ab87-707731b57f1b">Image by Kerfin7</a> on Freepik
-## Available Scripts
+This website is made for a local business to digitize their menu. The customers can check the menu by scanning a QR code or the url. This enables them to have the menu updated easier than updating it in hard copies. 
+
+Live Website: https://apoorvyadav1111.github.io/bsh-menu/
+
+Make it yours by easy Menu Change by editing menu.json files, logos and background.
 
 In the project directory, you can run:
 
