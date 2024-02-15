@@ -6,6 +6,18 @@ Live Website: https://brijwasisweethouse.github.io/bsh-menu/#/
 
 Make it yours by easy Menu Change by editing menu.json files, logos and background.
 
+### Setup
+1. git clone this repo
+2. ```npm i```
+3. update the menu, logos, and background as per the local business
+
+### Deploy
+```
+git add <files>
+git commit -am "message here"
+git push origin main
+npm run deploy
+```
 In the project directory, you can run:
 
 ### `npm start`
